@@ -1,4 +1,4 @@
-def hello():
-    return print("your name is")
+def hello(a+b):
+    return print(a+b)
 
-hello()
+hello(2,3)
