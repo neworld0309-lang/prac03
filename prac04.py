@@ -1,4 +1,4 @@
-def hello(a+b):
+def hello(a,b):
     return print(a+b)
 
-hello(2,3)
+hello(3,4)
